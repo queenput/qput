@@ -1,2 +1,2 @@
-# qput
+# REPO
 HELLO I'M PUTRI
